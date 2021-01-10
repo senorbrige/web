@@ -6,8 +6,8 @@ permalink: /staff
 {% for rank in site.data.staff %}
 
 {% assign color = rank[1]['style']['color'] %}
-<div>
-	<h1 style="color: {{ color }}" class="title">{{ rank[1]['display_name'] }}</h1>
+<div id="{{ rank[0] }}">
+	<a style="color: {{ color }}" href="#{{ rank[0] }}" class="title">{{ rank[1]['display_name'] }}</a>
 
 	<hr>
 	
