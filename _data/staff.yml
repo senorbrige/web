@@ -7,11 +7,9 @@ owner:
     members:
         Hexabytes:
             uuid: '468389ba-9236-4f36-8893-c79a335f6fb7'
-            description: 'Powers'
 
         pcrunn:
             uuid: '2e5d2c6f-392e-44a3-b0ef-85eb369cd1d3'
-            description: 'Skywars'
             contact:
                 github: 'pcranaway'
                 twitter: 'pcranaway'
@@ -25,7 +23,6 @@ manager:
     members:
         Kyruxio:
             uuid: 'c397327f-61e7-424d-aefb-8b934f7f5d10'
-            description: 'Minenation & Minigames'
             contact:
                 twitter: 'ignkyruxio'
 
@@ -38,11 +35,9 @@ game_admin:
     members:
         Mavco_:
             uuid: '42b64d7e-878e-4c49-b54f-a12f5024b2fe'
-            description: 'Powers'
 
         Resister:
             uuid: '3a19318e-66e4-4c06-8f81-cd7d33b3c556'
-            description: 'Duels'
 
         Mvk:
             uuid: 'a0d64519-83fc-4012-81d5-0de65b12473a'
@@ -56,4 +51,3 @@ mod_plus:
     members:
         brige:
             uuid: '09f36843-4947-47b7-9bf9-d4d1737624d1'
-            description: 'Powers & Duels'
