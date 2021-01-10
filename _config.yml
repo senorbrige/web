@@ -10,6 +10,9 @@ description: 'Lark is a competitive Minecraft PvP Server'
 # the ip address of the server
 ip_address: 'lark.gg'
 
+# the fontawesome kit link
+fa_kit: 'https://kit.fontawesome.com/02ece65c7c.js'
+
 # the social media usernames
 twitter_username: 'larknetworkmc'
 github_username: 'larknetworkmc'
