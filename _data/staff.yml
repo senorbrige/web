@@ -42,11 +42,11 @@ game_admin:
         Mvk:
             uuid: 'a0d64519-83fc-4012-81d5-0de65b12473a'
 
-mod_plus:
+mod:
     style:
         color: '#00aaaa'
 
-    display_name: 'Mod+'
+    display_name: 'Moderator'
     
     members:
         brige:
