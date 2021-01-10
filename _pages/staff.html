@@ -6,7 +6,7 @@ permalink: /staff
 {% for rank in site.data.staff %}
 
 <div>
-	<h1 class="title">{{ rank[1]['display_name'] }}</h1>
+	<h1 style="color: {{ rank[1]['style']['color'] }}" class="title">{{ rank[1]['display_name'] }}</h1>
 
 	<div class="columns">
 		{% for member in rank[1].members %}
@@ -31,5 +31,6 @@ permalink: /staff
 	</div>
 
 </div>
+
 
 {% endfor %}
