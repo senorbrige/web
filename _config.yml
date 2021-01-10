@@ -1,0 +1,29 @@
+# the title of the website
+title: 'Lark Network'
+
+# the contact email
+email: 'hey@lark.gg'
+
+# the description of the website
+description: 'Lark is a competitive Minecraft PvP Server'
+
+# the ip address of the server
+ip_address: 'lark.gg'
+
+# the social media usernames
+twitter_username: 'larknetworkmc'
+github_username: 'larknetworkmc'
+
+baseurl: ''
+url: ''
+
+defaults:
+    -
+        scope:
+            type: pages
+        values:
+            layout: page
+
+include: ['_pages']
+
+plugins: ['jemoji']
