@@ -30,4 +30,4 @@ defaults:
 
 include: ['_pages']
 
-plugins: ['jemoji']
+plugins: ['jemoji', 'jekyll-seo-tag']
