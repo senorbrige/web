@@ -29,11 +29,11 @@ manager:
                 twitter: 'ignkyruxio'
             description: 'Manager'
 
-game_admin:
+administrator:
     style:
         color: '#ff5555'
 
-    display_name: 'Game Admin'
+    display_name: 'Administrator'
     
     members:
         Mavco_:
