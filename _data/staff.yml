@@ -22,13 +22,7 @@ manager:
 
     display_name: 'Manager'
     
-    members:
-        Kyruxio:
-            uuid: 'c397327f-61e7-424d-aefb-8b934f7f5d10'
-            contact:
-                twitter: 'ignkyruxio'
-            description: 'Manager'
-
+    
 administrator:
     style:
         color: '#ff5555'
@@ -38,15 +32,15 @@ administrator:
     members:
         Mavco_:
             uuid: '42b64d7e-878e-4c49-b54f-a12f5024b2fe'
-            description: 'Game Admin'
+            description: 'Skid Admin'
 
         Resister:
             uuid: '3a19318e-66e4-4c06-8f81-cd7d33b3c556'
-            description: 'Game Admin'
+            description: 'Good Admin'
 
         Mvk:
             uuid: 'a0d64519-83fc-4012-81d5-0de65b12473a'
-            description: 'Game Admin'
+            description: 'Good Admin'
 
 moderator:
     style:
@@ -57,4 +51,4 @@ moderator:
     members:
         brige:
             uuid: '09f36843-4947-47b7-9bf9-d4d1737624d1'
-            description: 'Mod+'
+            description: 'Señor Mod'
