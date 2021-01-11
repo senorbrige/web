@@ -48,7 +48,7 @@ administrator:
             uuid: 'a0d64519-83fc-4012-81d5-0de65b12473a'
             description: 'Game Admin'
 
-mod:
+moderator:
     style:
         color: '#00aaaa'
 
